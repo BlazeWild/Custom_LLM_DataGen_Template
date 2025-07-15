@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "web_scrapper_agent": "./agent_webscraper/agent.py:web_agent"
+  },
+  "env": "./.env",
+  "python_version": "3.11"
+}

@@ -1,0 +1,31 @@
+# Core ML and Training Libraries
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+peft>=0.7.0
+trl>=0.7.0
+accelerate>=0.24.0
+bitsandbytes>=0.41.0
+
+# Data Processing and Generation
+google-generativeai>=0.3.0
+docling>=1.0.0
+pydantic>=2.0.0
+
+# Web Scraping and LangGraph Agent (Optional - only if using web scraper)
+langchain-google-genai>=1.0.0
+langchain-core>=0.1.0
+langgraph>=0.0.40
+langgraph-cli>=0.1.0
+langgraph-api>=0.1.0
+google-search-results>=2.4.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Document Processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+
+# Utilities
+python-dotenv>=1.0.0
+colorama>=0.4.6
