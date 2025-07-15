@@ -2,6 +2,8 @@
 
 A comprehensive pipeline for creating high-quality synthetic datasets for domain-specific LLM fine-tuning. Generate Q&A pairs from PDFs and web content with automated quality assessment and training-ready preprocessing.
 
+📖 **Read the detailed guide**: [How to Generate High-Quality Datasets for LLM Fine-Tuning Using LLMs](https://medium.com/@blazewild215/how-to-generate-high-quality-datasets-for-llm-fine-tuning-using-llms-b621ee308602)
+
 ## 🚀 Overview
 
 This template enables you to create specialized datasets for any domain through:
